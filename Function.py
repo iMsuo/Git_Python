@@ -1,2 +1,1 @@
 print("Function")
-print('Git')
